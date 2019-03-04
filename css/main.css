@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: none;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -24,14 +24,13 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-weight: none;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-th {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+table {
+    padding: 20px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
