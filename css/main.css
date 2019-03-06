@@ -28,6 +28,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    text-align: left;
 }
 table {
     padding: 20px;
